@@ -120,3 +120,5 @@ To access the entity manager, use the main service locator:
 $em = $this->getServiceLocator()->get('doctrine.entitymanager.orm_default');
 $em = $this->getServiceLocator()->get('Doctrine\ORM\EntityManager');
 ```
+
+Test
